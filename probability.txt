@@ -1,0 +1,1 @@
+Probability of rock:  0.5 
