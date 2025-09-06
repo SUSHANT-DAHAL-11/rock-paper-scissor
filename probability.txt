@@ -1,1 +1,1 @@
-Probability of rock:  0.5 
+Probability of rock:  0.5 Probability of paper: 0.0 Probability of scissors: 0.0 
